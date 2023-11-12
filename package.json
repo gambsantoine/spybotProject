@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "mariadb": "^3.2.2",
+    "mysql2": "^3.6.3",
+    "sequelize": "^6.34.0",
+    "sqlite3": "^5.1.6"
+  }
+}
